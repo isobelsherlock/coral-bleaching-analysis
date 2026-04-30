@@ -1,2 +1,6 @@
-# coral-bleaching-analysis
-This analysis examined patterns and drivers of coral bleaching using cleaned and integrated observational and environmental data
+# Coral bleaching analysis
+Coral‑reef bleaching is increasing in frequency, severity, and range as a result of climate change, posing a significant threat to reef ecosystems worldwide. Given the ecological, economic, and cultural importance of coral reefs, continued efforts to improve understanding of bleaching processes are critical. Analysing global bleaching survey data alongside environmental variables is necessary to better identify the conditions most strongly associated with bleaching under current and emerging climatic regimes, and to support more effective prediction, conservation, and management efforts.
+
+This analysis examined patterns and drivers of coral bleaching using cleaned and integrated observational and environmental data. Exploratory, spatial, and temporal analysis identified clear increases in bleaching frequency and severity over time. Bleaching impacts were uneven across regions, suggesting that local environmental conditions and ecosystem resilience play an important role in moderating outcomes.
+
+Strong alignment was observed between bleaching events and elevated sea surface temperature anomalies, reinforcing thermal stress as a key driver. Recent years show a higher concentration of severe bleaching events, highlighting escalating risk under continued ocean warming. Overall, the findings emphasise the growing vulnerability of coral reef systems and support the need for targeted monitoring, adaptation, and mitigation efforts.
