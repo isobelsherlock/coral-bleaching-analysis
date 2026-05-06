@@ -25,4 +25,10 @@ The dataset contains:
 - Thermal stress is the dominant driver: Degree Heating Weeks (DHW) shows the strongest association with bleaching, and more frequent heat stress events lead to greater severity.
 - Linear models explain a modest proportion of variation (~12%), while tree-based models perform better, indicating that non-linear relationships and interactions are important in explaining bleaching dynamics.
 
+## Presentation
+
+A full project presentation (methodology and results) is available here:
+
+[Download presentation](presentation/coral_bleaching_analysis.pptx)
+
 
