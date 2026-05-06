@@ -6,7 +6,7 @@ This project investigates global patterns in coral bleaching using environmental
 Coral reef bleaching is increasing in frequency, severity, and geographic extent due to climate change, posing a major threat to marine ecosystems. Given the ecological, economic, and cultural importance of coral reefs, improving our understanding of bleaching dynamics is critical. By analysing global observational data alongside environmental variables, this project seeks to better identify the conditions under which bleaching occurs and support more effective prediction, conservation, and management strategies.
 
 ### Research Question
-Which environmental factors are most strongly associated with coral bleaching severity?
+How does coral bleaching severity vary by region, and what drives these differences?
 
 ### Data
 Source: https://www.bco-dmo.org/dataset/773466  
