@@ -29,6 +29,4 @@ The dataset contains:
 
 A full project presentation (methodology and results) is available here:
 
-[Download presentation](presentation/coral_bleaching_analysis.pptx)
-
-
+[View presentation (PDF)](presentation/coral_bleaching_analysis.pdf)
